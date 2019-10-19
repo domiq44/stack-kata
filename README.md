@@ -1,9 +1,10 @@
 
-TDD kata in Java : Stack
+# TDD kata in Java : Stack
 
 The rules are :
 
 A Stack should
+
     * store (push) one element
     * return and delete (pop) last element
     * return only (peek) last element
